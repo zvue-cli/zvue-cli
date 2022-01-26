@@ -1,10 +1,10 @@
 {
-  "name": "zvue-cli",
+  "name": "zqvue-cli",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "bin": {
-    "zvue": "./bin/cli.js"
+    "zqvue": "./bin/cli.js"
   },
   "files": [
     "bin",
@@ -14,12 +14,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": {
-    "name": "Jarvan",
+    "name": "zhouqian",
     "email": "zhouqwork@163.com"
   },
   "keywords": [
-    "zvue-cli",
-    "zvue",
+    "zqvue-cli",
+    "zqvue",
     "脚手架"
   ],
   "license": "MIT",
